@@ -1,0 +1,4 @@
+.card-img-top {
+    height: 200px;         /* o el valor que prefieras */
+    object-fit: cover;     /* recorta y centra la imagen para que se vea bien */
+  }
